@@ -1,0 +1,18 @@
+.brand-integration {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 24px 0px;
+  cursor: pointer;
+}
+
+.bi-logos {
+  height: 160px;
+}
+
+@media all and (max-width: 767px) {
+  .bi-logos {
+    height: 100px;
+  }
+}

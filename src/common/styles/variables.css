@@ -1,0 +1,15 @@
+:root {
+  --background: rgba(245, 9, 9, 0.336);
+  --white: khaki;
+  --text-gradient-bg: peru;
+  --text-gradient-1: linear-gradient(
+    -125deg,
+    cyan 0%,
+    rgba(0, 255, 0, 0.808) 50%,
+    steelblue 100%
+  );
+  --btn-bg: darkorchid;
+  --hover: cyan;
+  --bg-blob: rgba(0, 255, 34, 0.35);
+  --card-border: lightcyan;
+}

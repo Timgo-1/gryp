@@ -1,0 +1,20 @@
+.footer {
+  padding-bottom: 1.5em;
+  justify-content: center;
+}
+
+.footer a {
+  color: var(--card-border);
+  text-decoration: none;
+}
+.footer a:hover {
+  color: var(--hover);
+  text-decoration: underline overline;
+  text-decoration-style: dashed;
+  text-decoration-color: var(--btn-bg);
+  transition: var(--mainTransition);
+  -webkit-transition: var(--mainTransition);
+  -moz-transition: var(--mainTransition);
+  -ms-transition: var(--mainTransition);
+  -o-transition: var(--mainTransition);
+}

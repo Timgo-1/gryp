@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+.header-logo {
+  height: 2.5em;
+  width: 2.5em;
+  margin-right: -0.45em;
+}
+
+.header {
+  font-family: 'Rubik Gemstones', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 12px 0px 0px;
+  margin-left: -8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 12px;
+  cursor: pointer;
+}

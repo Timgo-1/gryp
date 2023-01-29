@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+}
+
+.cur-po {
+  cursor: pointer;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+.max-width {
+  width: 90vw;
+  margin: auto;
+  padding: auto;
+}
+
+.heading-gradient {
+  background: var(--text-gradient-bg);
+  background: var(--text-gradient-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
